@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1a556783-d40d-4bf2-be90-c5760f06d77a/resourceGroups/java-azure/providers/Microsoft.Web/sites/angular-fe",
+    "appService.deploySubpath": "dist\\simple-app"
+}
